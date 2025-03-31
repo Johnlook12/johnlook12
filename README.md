@@ -26,6 +26,20 @@ Apasionado por la creación de soluciones tecnológicas creativas y funcionales.
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Java Swing](https://img.shields.io/badge/-Java%20Swing-4A4A4A?style=flat-square)](https://docs.oracle.com/javase/tutorial/uiswing/)
 
+## 📊 **Mis Métricas**
+
+<div align="center">
+
+[![Estadísticas Generales](https://github-readme-stats.vercel.app/api?username=johnlook12&show_icons=true&theme=radical&hide_title=true)](https://github.com/johnlook12)
+[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=johnlook12&layout=compact&theme=radical&hide_title=true)](https://github.com/johnlook12)
+
+</div>
+
+<div align="center" style="margin-top:30px">
+
+[![Trofeos GitHub](https://github-profile-trophy.vercel.app/?username=johnlook12&theme=onedark&row=2&column=4&no-frame=true)](https://github.com/johnlook12)
+
+</div>
 <!--
 **Johnlook12/johnlook12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
