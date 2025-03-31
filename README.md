@@ -29,28 +29,11 @@ Apasionado por la creación de soluciones tecnológicas creativas y funcionales.
 ## 📊 **Mis Métricas**
 
 <div align="center">
-
-[![Estadísticas Generales](https://github-readme-stats.vercel.app/api?username=johnlook12&show_icons=true&theme=radical&hide_title=true)](https://github.com/johnlook12)
-[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=johnlook12&layout=compact&theme=radical&hide_title=true)](https://github.com/johnlook12)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=johnlook12&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johnlook12&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact" style="height: 12rem"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnlook12&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"/>
 </div>
 
-<div align="center" style="margin-top:30px">
 
-[![Trofeos GitHub](https://github-profile-trophy.vercel.app/?username=johnlook12&theme=onedark&row=2&column=4&no-frame=true)](https://github.com/johnlook12)
-
-</div>
-<!--
-**Johnlook12/johnlook12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
